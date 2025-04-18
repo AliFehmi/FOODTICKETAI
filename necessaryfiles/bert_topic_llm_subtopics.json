@@ -1,0 +1,242 @@
+[
+  {
+    "id": 0,
+    "subtopics": [
+      "cancelation customer",
+      "cancel order",
+      "wants cancel",
+      "pre orders pre",
+      "delivery cancelation"
+    ]
+  },
+  {
+    "id": 6,
+    "subtopics": [
+      "Produce Request",
+      "Add to Order",
+      "Delivery Information",
+      "Order Inquiry",
+      "Supplement Request"
+    ]
+  },
+  {
+    "id": 4,
+    "subtopics": [
+      "Edit Order Items",
+      "Add Items to Order",
+      "Cancel Items from Order",
+      "Revise Order Subject",
+      "Add Request for Specific Item"
+    ]
+  },
+  {
+    "id": -1,
+    "subtopics": [
+      "Add items to order",
+      "Schedule delivery",
+      "Recipe cards and nutritional information",
+      "Produce limit exceeded",
+      "Shopping process explanation"
+    ]
+  },
+  {
+    "id": 7,
+    "subtopics": [
+      "Grant Support",
+      "Billing Inquiry",
+      "Order Modification",
+      "Refund Request",
+      "Delivery Issue Resolution"
+    ]
+  },
+  {
+    "id": 14,
+    "subtopics": [
+      "Staff Connection",
+      "Produce Allocation",
+      "UEI Number",
+      "Food Coding Guidelines",
+      "MOU for Funding"
+    ]
+  },
+  {
+    "id": 1,
+    "subtopics": [
+      "New Shopper",
+      "Account Linking",
+      "Partner Trainings",
+      "Meeting Location",
+      "Update Information"
+    ]
+  },
+  {
+    "id": 8,
+    "subtopics": [
+      "pickup requests",
+      "delivery scheduling",
+      "eta status",
+      "order balance",
+      "transportation"
+    ]
+  },
+  {
+    "id": 21,
+    "subtopics": [
+      "report issue",
+      "reschedule delivery",
+      "grant balance issue",
+      "order delivery issue",
+      "product labeling issue"
+    ]
+  },
+  {
+    "id": 10,
+    "subtopics": [
+      "Add items to order",
+      "Edit order items",
+      "Add specific item",
+      "Customer order items",
+      "Edit delivery items"
+    ]
+  },
+  {
+    "id": 9,
+    "subtopics": [
+      "Date/Time Change - New window",
+      "Request unavailable window",
+      "Combine orders for delivery",
+      "Reschedule delivery date",
+      "Cancel subscription"
+    ]
+  },
+  {
+    "id": 5,
+    "subtopics": [
+      "Pallet Pickup",
+      "Customer Pickup",
+      "Delivery Pickup",
+      "Food Delivery",
+      "Pallet Donation"
+    ]
+  },
+  {
+    "id": 13,
+    "subtopics": [
+      "Edit Order Items",
+      "Order Adjustment",
+      "Technical Issue",
+      "Purchase Limit",
+      "Order Restoration"
+    ]
+  },
+  {
+    "id": 16,
+    "subtopics": [
+      "reschedule customer pickup",
+      "change pickup date",
+      "move pickup order to different time",
+      "carry over items from previous orders",
+      "change pickup time due to delay"
+    ]
+  },
+  {
+    "id": 20,
+    "subtopics": [
+      "Expiration Dates",
+      "Product Best By Dates",
+      "Donated Items",
+      "Shipping and Handling",
+      "Product Information"
+    ]
+  },
+  {
+    "id": 18,
+    "subtopics": [
+      "reschedule customer",
+      "data/time change",
+      "weather",
+      "delivery datatime change",
+      "datatime change"
+    ]
+  },
+  {
+    "id": 2,
+    "subtopics": [
+      "Missing Item - Redeliver",
+      "Delivery / Pickup - Return - Quality",
+      "General Questions",
+      "Report Issue - Refund",
+      "Report Issue - Product Exchange"
+    ]
+  },
+  {
+    "id": 12,
+    "subtopics": [
+      "Produce Request",
+      "Delivery Produce",
+      "Add Vegetables",
+      "Add Fruits",
+      "Availability Request"
+    ]
+  },
+  {
+    "id": 3,
+    "subtopics": [
+      "Availability inquiries",
+      "Menu item details",
+      "Ordering issues",
+      "Inventory status",
+      "Customer wants to know"
+    ]
+  },
+  {
+    "id": 11,
+    "subtopics": [
+      "reschedule customer",
+      "change delivery date",
+      "datatime change",
+      "delivery date conflict",
+      "order rescheduling"
+    ]
+  },
+  {
+    "id": 19,
+    "subtopics": [
+      "cancel order",
+      "cancel pre delivery",
+      "cancelation",
+      "pre delivery cancelation",
+      "customer wants to cancel order"
+    ]
+  },
+  {
+    "id": 15,
+    "subtopics": [
+      "Remove items",
+      "Edit order items",
+      "Cancel order",
+      "Remove produce",
+      "Help with removal"
+    ]
+  },
+  {
+    "id": 22,
+    "subtopics": [
+      "General questions about food delivery",
+      "Inquiries about partner links and summer shutdowns",
+      "Concerns and negative experiences with food delivery",
+      "Requests for additional food assistance cards",
+      "Need assistance with connecting customers to food coding guidelines"
+    ]
+  },
+  {
+    "id": 17,
+    "subtopics": [
+      "General Questions",
+      "Order Changes",
+      "Logging In Issues",
+      "Order Editing",
+      "Delivery Information"
+    ]
+  }
+]
