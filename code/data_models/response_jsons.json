@@ -1,0 +1,915 @@
+[
+  {
+    "subtopic": "Account Linking",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Email": "user"
+    },
+    "cluster": 1
+  },
+  {
+    "subtopic": "Add Fruits",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Available Fruits and Vegetables": "user"
+    },
+    "cluster": 12
+  },
+  {
+    "subtopic": "Add Items to Order",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 4
+  },
+  {
+    "subtopic": "Add Vegetables",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Sales Order Number": "user",
+      "Produce Availability": "system"
+    },
+    "cluster": 12
+  },
+  {
+    "subtopic": "Add items to order",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": -1
+  },
+  {
+    "subtopic": "Add items to order",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Quantity": "user",
+      "Item ID": "user",
+      "Item Name": "user",
+      "Unit Price": "system"
+    },
+    "cluster": 10
+  },
+  {
+    "subtopic": "Add to Order",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 6
+  },
+  {
+    "subtopic": "Availability inquiries",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Product Name": "user",
+      "Product Quantity": "user",
+      "Expected Receive Date": "system"
+    },
+    "cluster": 3
+  },
+  {
+    "subtopic": "Billing Inquiry",
+    "schema": {
+      "Order ID": "user",
+      "Grant Balance": "user",
+      "Order Status": "system"
+    },
+    "cluster": 7
+  },
+  {
+    "subtopic": "Cancel Items from Order",
+    "schema": {
+      "Order ID": "user",
+      "Sales Order Number": "user",
+      "Item Number": "user"
+    },
+    "cluster": 4
+  },
+  {
+    "subtopic": "Cancel order",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 15
+  },
+  {
+    "subtopic": "Cancel subscription",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 9
+  },
+  {
+    "subtopic": "Combine orders for delivery",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 9
+  },
+  {
+    "subtopic": "Concerns and negative experiences with food delivery",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 22
+  },
+  {
+    "subtopic": "Customer Pickup",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Pickup Date": "user",
+      "Pickup Time": "user"
+    },
+    "cluster": 5
+  },
+  {
+    "subtopic": "Customer order items",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 10
+  },
+  {
+    "subtopic": "Customer wants to know",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Inventory Item": "user",
+      "Expected Availability": "system"
+    },
+    "cluster": 3
+  },
+  {
+    "subtopic": "Delivery / Pickup - Return - Quality",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Sales Order Number": "user",
+      "Invoice Number": "system",
+      "Product Name": "user",
+      "Quantity": "user",
+      "Label": "system"
+    },
+    "cluster": 2
+  },
+  {
+    "subtopic": "Delivery Information",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Delivery Information": "system"
+    },
+    "cluster": 17
+  },
+  {
+    "subtopic": "Delivery Issue Resolution",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Delivery Fee": "system"
+    },
+    "cluster": 7
+  },
+  {
+    "subtopic": "Delivery Pickup",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 5
+  },
+  {
+    "subtopic": "Delivery Produce",
+    "schema": {
+      "Item ID": "user",
+      "Product Name": "user",
+      "Quantity": "user",
+      "Delivery Location": "system"
+    },
+    "cluster": 12
+  },
+  {
+    "subtopic": "Edit Order Items",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 4
+  },
+  {
+    "subtopic": "Edit Order Items",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 13
+  },
+  {
+    "subtopic": "Edit delivery items",
+    "schema": {
+      "Order ID": "user",
+      "Sales Order": "user",
+      "Quantity": "user",
+      "Item Availability": "system"
+    },
+    "cluster": 10
+  },
+  {
+    "subtopic": "Expiration Dates",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Expiration Date": "system"
+    },
+    "cluster": 20
+  },
+  {
+    "subtopic": "Food Coding Guidelines",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Food Coding Guidelines": "system"
+    },
+    "cluster": 14
+  },
+  {
+    "subtopic": "Food Delivery",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Pallet Quantity": "user",
+      "Pallet Location": "user",
+      "Delivery Time": "system"
+    },
+    "cluster": 5
+  },
+  {
+    "subtopic": "General questions about food delivery",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Delivery Date": "system",
+      "Produce Box Quantity": "user",
+      "Food Distribution Date": "system",
+      "Manpower Availability": "user",
+      "Delivery Time": "system",
+      "Food Type": "user",
+      "Order History": "system"
+    },
+    "cluster": 22
+  },
+  {
+    "subtopic": "Grant Support",
+    "schema": {
+      "Ticket Description": "user",
+      "Ticket Comment": "user",
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Grant Allocation": "system"
+    },
+    "cluster": 7
+  },
+  {
+    "subtopic": "Inquiries about partner links and summer shutdowns",
+    "schema": {
+      "Partner Link": "user",
+      "Summer Shutdown Dates": "system"
+    },
+    "cluster": 22
+  },
+  {
+    "subtopic": "Inventory status",
+    "schema": {
+      "Item Name": "user",
+      "Quantity in Stock": "system",
+      "Last Update Time": "system"
+    },
+    "cluster": 3
+  },
+  {
+    "subtopic": "Logging In Issues",
+    "schema": {
+      "Email": "user",
+      "Order ID": "user",
+      "Partner Link ID": "system"
+    },
+    "cluster": 17
+  },
+  {
+    "subtopic": "MOU for Funding",
+    "schema": {
+      "MOU ID": "user",
+      "Funding Amount": "user",
+      "Funding Year": "system"
+    },
+    "cluster": 14
+  },
+  {
+    "subtopic": "Meeting Location",
+    "schema": {
+      "Meeting Location": "system"
+    },
+    "cluster": 1
+  },
+  {
+    "subtopic": "Menu item details",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Menu Item Details": "system"
+    },
+    "cluster": 3
+  },
+  {
+    "subtopic": "Missing Item - Redeliver",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Item Name": "user",
+      "Quantity": "user"
+    },
+    "cluster": 2
+  },
+  {
+    "subtopic": "Need assistance with connecting customers to food coding guidelines",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Food Coding Guidelines": "system"
+    },
+    "cluster": 22
+  },
+  {
+    "subtopic": "New Shopper",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 1
+  },
+  {
+    "subtopic": "Order Adjustment",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 13
+  },
+  {
+    "subtopic": "Order Changes",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Ordering Error": "system",
+      "Item Quantity": "user",
+      "Item Reason": "system"
+    },
+    "cluster": 17
+  },
+  {
+    "subtopic": "Order Editing",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 17
+  },
+  {
+    "subtopic": "Order Inquiry",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Item Name": "user",
+      "Quantity": "user",
+      "Availability": "system"
+    },
+    "cluster": 6
+  },
+  {
+    "subtopic": "Order Modification",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Payment Method": "user",
+      "Order Date": "system"
+    },
+    "cluster": 7
+  },
+  {
+    "subtopic": "Order Restoration",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 13
+  },
+  {
+    "subtopic": "Ordering issues",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 3
+  },
+  {
+    "subtopic": "Pallet Pickup",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Pallet Location": "user"
+    },
+    "cluster": 5
+  },
+  {
+    "subtopic": "Partner Trainings",
+    "schema": {
+      "Partner ID": "user",
+      "Name": "user",
+      "Email": "user",
+      "Phone Number": "user",
+      "Title": "user",
+      "Organization Name": "user",
+      "Address": "user",
+      "City": "user",
+      "State": "user",
+      "Zip": "user",
+      "Date of Training": "system",
+      "Time of Training": "system",
+      "Training Type": "system",
+      "Attendee Name": "user",
+      "Attendee Email": "user",
+      "Attendee Phone Number": "user"
+    },
+    "cluster": 1
+  },
+  {
+    "subtopic": "Produce Allocation",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Produce Limit": "system"
+    },
+    "cluster": 14
+  },
+  {
+    "subtopic": "Produce Request",
+    "schema": {
+      "Order ID": "user",
+      "Sales Order Number": "user",
+      "Item Numbers": "user",
+      "Quantity": "user",
+      "Delivery Date": "system"
+    },
+    "cluster": 6
+  },
+  {
+    "subtopic": "Produce limit exceeded",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Produce limit": "system"
+    },
+    "cluster": -1
+  },
+  {
+    "subtopic": "Product Best By Dates",
+    "schema": {
+      "Best By Date": "user",
+      "Inventory Date": "system"
+    },
+    "cluster": 20
+  },
+  {
+    "subtopic": "Purchase Limit",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 13
+  },
+  {
+    "subtopic": "Recipe cards and nutritional information",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Recipe Cards and Nutritional Information": "system"
+    },
+    "cluster": -1
+  },
+  {
+    "subtopic": "Refund Request",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Processing Fee": "system"
+    },
+    "cluster": 7
+  },
+  {
+    "subtopic": "Remove items",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Remove items": "user"
+    },
+    "cluster": 15
+  },
+  {
+    "subtopic": "Remove produce",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Produce Items": "user"
+    },
+    "cluster": 15
+  },
+  {
+    "subtopic": "Report Issue - Product Exchange",
+    "schema": {},
+    "cluster": 2
+  },
+  {
+    "subtopic": "Report Issue - Refund",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Expiration Date": "system"
+    },
+    "cluster": 2
+  },
+  {
+    "subtopic": "Requests for additional food assistance cards",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Quantity of Cards": "user"
+    },
+    "cluster": 22
+  },
+  {
+    "subtopic": "Reschedule delivery date",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Pickup Time": "user"
+    },
+    "cluster": 9
+  },
+  {
+    "subtopic": "Revise Order Subject",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 4
+  },
+  {
+    "subtopic": "Schedule delivery",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Delivery Date": "system"
+    },
+    "cluster": -1
+  },
+  {
+    "subtopic": "Shopping process explanation",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Sales Order Number": "user",
+      "Item Number": "user",
+      "Notes": "user"
+    },
+    "cluster": -1
+  },
+  {
+    "subtopic": "Staff Connection",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Donation Location": "user",
+      "Partner Direct Team": "system"
+    },
+    "cluster": 14
+  },
+  {
+    "subtopic": "Supplement Request",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 6
+  },
+  {
+    "subtopic": "Technical Issue",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 13
+  },
+  {
+    "subtopic": "UEI Number",
+    "schema": {
+      "UEI number": "user"
+    },
+    "cluster": 14
+  },
+  {
+    "subtopic": "Update Information",
+    "schema": {
+      "Ticket Description": "user",
+      "Ticket Comment": "system",
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 1
+  },
+  {
+    "subtopic": "cancel order",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 0
+  },
+  {
+    "subtopic": "cancelation customer",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 0
+  },
+  {
+    "subtopic": "carry over items from previous orders",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Produce Expiration Date": "system"
+    },
+    "cluster": 16
+  },
+  {
+    "subtopic": "change delivery date",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Delivery Date": "system",
+      "Delivery Time": "system",
+      "Item List": "user",
+      "Quantity": "user",
+      "Pickup Time": "system",
+      "Pickup Date": "system",
+      "Order Notes": "user"
+    },
+    "cluster": 11
+  },
+  {
+    "subtopic": "change pickup date",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Pickup Date": "system"
+    },
+    "cluster": 16
+  },
+  {
+    "subtopic": "change pickup time due to delay",
+    "schema": {
+      "Order ID": "user",
+      "Pickup Time": "system"
+    },
+    "cluster": 16
+  },
+  {
+    "subtopic": "customer wants to cancel order",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 19
+  },
+  {
+    "subtopic": "delivery cancelation",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 0
+  },
+  {
+    "subtopic": "delivery datatime change",
+    "schema": {
+      "Delivery Datetime": "system",
+      "Order ID": "user",
+      "Customer Name": "user"
+    },
+    "cluster": 18
+  },
+  {
+    "subtopic": "delivery scheduling",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Phone Number": "user",
+      "Delivery Date": "system"
+    },
+    "cluster": 8
+  },
+  {
+    "subtopic": "eta status",
+    "schema": {
+      "Sales Order number": "user",
+      "ETA Status": "system"
+    },
+    "cluster": 8
+  },
+  {
+    "subtopic": "grant balance issue",
+    "schema": {
+      "Grant Balance": "user",
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Error Code": "system"
+    },
+    "cluster": 21
+  },
+  {
+    "subtopic": "move pickup order to different time",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 16
+  },
+  {
+    "subtopic": "order balance",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 8
+  },
+  {
+    "subtopic": "order delivery issue",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system",
+      "Order Description": "user",
+      "Ticket Comment": "system"
+    },
+    "cluster": 21
+  },
+  {
+    "subtopic": "order rescheduling",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 11
+  },
+  {
+    "subtopic": "pickup requests",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 8
+  },
+  {
+    "subtopic": "product labeling issue",
+    "schema": {
+      "Order ID": "user",
+      "Product ID": "user",
+      "Product Name": "user",
+      "Labeling Issue": "system"
+    },
+    "cluster": 21
+  },
+  {
+    "subtopic": "report issue",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 21
+  },
+  {
+    "subtopic": "reschedule customer",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Order Status": "system"
+    },
+    "cluster": 11
+  },
+  {
+    "subtopic": "reschedule customer",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Delivery Date": "user",
+      "Reason for Reschedule": "system"
+    },
+    "cluster": 18
+  },
+  {
+    "subtopic": "reschedule customer pickup",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Pickup Time": "system",
+      "Reason for Reschedule": "system"
+    },
+    "cluster": 16
+  },
+  {
+    "subtopic": "reschedule delivery",
+    "schema": {
+      "Order ID": "user",
+      "Partner Name": "user",
+      "Delivery Date": "system"
+    },
+    "cluster": 21
+  },
+  {
+    "subtopic": "weather",
+    "schema": {
+      "Order ID": "user",
+      "Customer Name": "user",
+      "Inclement Weather Policy": "system"
+    },
+    "cluster": 18
+  }
+]
